@@ -1,5 +1,5 @@
 
 window.onload = function() {
 var Image = document.getElementById("bc-main-header-logo") ;
-Image.innerHTML = '<a href="http://www.facebook.com"> <img src="https://players.brightcove.net/876450531001/portal_assets/ff93dedd-025e-4cce-9a5a-6f778c467aba.waters_logo.png" alt=""></a>'</div>';
+Image.innerHTML = '<a href="http://www.facebook.com"> <img src="https://players.brightcove.net/876450531001/portal_assets/ff93dedd-025e-4cce-9a5a-6f778c467aba.waters_logo.png" alt=""></a>';
 }
